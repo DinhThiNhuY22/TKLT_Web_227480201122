@@ -7,7 +7,7 @@
     <style>
         form {
             display: flex;
-            flex-direction: column; /* Sắp xếp các phần tử con theo cột */
+            flex-direction: column; 
             justify-content: center;
             align-items: center;
             height: 100vh;
